@@ -1,0 +1,40 @@
+_repo: Vedenpaisumus-I-b-Historiallinen-romaani_72788
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Silvanto, Reino
+    alias: Silva, Reino
+    birthdate: 1883
+    deathdate: 1943
+    gutenberg_agent_id: '45093'
+    url: http://www.gutenberg.org/2009/agents/45093
+    wikipedia: https://fi.wikipedia.org/wiki/Reino_Silvanto
+creator:
+  author:
+    agent_name: Sienkiewicz, Henryk
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1052'
+    url: http://www.gutenberg.org/2009/agents/1052
+    wikipedia: https://en.wikipedia.org/wiki/Henryk_Sienkiewicz
+description: 'Part 1 of Finnish translation of: Potop.'
+gutenberg_issued: '2024-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72788'
+language: fi
+pgterms:marc905: 20240112021538sienkiewic
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Poland -- History -- John II Casimir, 1648-1668 -- Fiction'
+- !lcc 'PG'
+- GITenberg
+title: 'Vedenpaisumus I : $b Historiallinen romaani'
+url: http://www.gutenberg.org/ebooks/72788
